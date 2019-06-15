@@ -10,3 +10,4 @@ theme:
   highlightjs: true
   hljs_languages:
     - javascript
+site_url: https://niharrs.github.io/
