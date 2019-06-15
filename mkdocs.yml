@@ -1,0 +1,12 @@
+site_name: TryCrypto
+nav:
+    - Home: index.md
+    - About: about.md
+extra_css: 
+  - css/light-code.css
+  - css/extra.css
+theme: 
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - javascript
