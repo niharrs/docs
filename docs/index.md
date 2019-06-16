@@ -21,7 +21,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 var niharika = require ('niharika');
 someFunction = () => {
     for (let i = 0; i < 100; i++){
-        console.log("BLAH");
+        console.log("Hello World!");
     }
 }
 someFunction();
